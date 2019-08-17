@@ -1,0 +1,164 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    max-width: 100%;
+    min-height: 100vh;
+    /* background-color: thistle; */
+}
+.nav{
+    width: 100%;
+    height: 72px;
+    background-color: black;
+}
+.nav-table{
+    display: table;
+}
+.nav-table-margin{
+    margin-left: 20px;
+}
+.nav-cell{
+    display: table-cell;
+    vertical-align: middle;
+    /* background-color: yellow; */
+    /* border: 1px solid; */
+}
+.nav-menu{
+ width: 40%;
+ /* background-color: teal; */
+}
+.nav-empty{
+    width: auto;
+    /* background-color: springgreen; */
+}
+.nav-form{
+    width: 34%;
+    /* background-color: violet; */
+
+}
+.img-logo{
+    background-color: white;
+    border-radius: 100%;
+    
+}
+
+}
+
+.nav-wrapper{
+    width: 100%;
+    /* margin-left: 50px; */
+    /* background-color: blue; */
+    box-sizing: border-box;
+}
+.nav-menu-item{
+    /* display: table-cell; */
+    user-select: none;
+    width:40%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    text-align: center;
+    padding-left: 10px;
+    cursor: pointer;
+    transition: color 1s;
+}
+.nav-menu-item-width{
+    width: 10%;
+}
+.nav-menu-item:hover{
+    color: brown;
+    /* background-color: black; */
+}
+
+.form-wrapper{
+    width: auto;
+    color: white;
+    font-size: 20px;
+}
+::placeholder{
+    
+    color: grey;
+    /* border-collapse: collapse; */
+}
+.input1{
+    /* width: 100%; */
+    /* padding: 12px 20px; */
+    /* margin: 8px 0; */
+    box-sizing: border-box;
+    border: 3px solid #24292e;
+    border-radius: 4px;
+    background-color: #24292e;
+    padding: 5px 5px;
+    color: white;
+  }
+.sign-up{
+    border: 1px solid white;
+    text-align: center;
+    /* margin-right: 5px; */
+    
+}
+.button{
+    /* background-color: #4CAF50; */
+    width: 10%;
+    background-color: #24292e;
+    background-image: url(https://img.icons8.com/material-two-tone/24/000000/google-web-search.png);
+    background-position: center center;
+    background-size: 100% 100%;
+    border: none;
+    color: white;
+    padding: 8px 8px;
+    color: 
+    /* text-decoration: none; */
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.content{
+    width: 100%;
+    height: 692px;
+    padding: 64px 0px;
+    background-image: url(https://2600index.info/Links/34/4/assets-cdn.github.com/images/modules/site/heroes/simple-codelines.svg);
+    background-color: rgb(43, 49, 55);
+}
+.content-space{
+    max-width: 100%;
+    height: 503px;
+    margin: 0px 48px;
+    padding: 16px;
+    /* background-color: azure; */
+    /* box-sizing: border-box; */
+
+}
+.content-left{
+    width: 55%;
+    padding-left: 200px;
+    padding-right: 50px;
+}
+.content-left h1{
+    font-size: 64px;
+}
+ .content-right{
+    width: 72%;
+    background-color: white;
+    padding: 15px;
+    height: 500px;
+    border-radius: 7px;
+ }
+ .input2{
+     width: 100%;
+     padding: 15px 15px;
+ }
+ .condition{
+     font-size: 12px;
+ }
+ .button2{
+     width: 100%;
+     background-color: #28a745;
+     border-color: #28a745;
+     padding: 24px;
+     color: white;
+     font-size: 16px;
+     border-radius: 10px;
+     border-style: none;
+    }
+ 
