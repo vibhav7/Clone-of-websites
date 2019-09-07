@@ -1,2 +1,2 @@
 # myworks
-works done while studying front end
+Created using HTML and CSS only
